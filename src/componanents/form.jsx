@@ -215,7 +215,7 @@ export default function Form() {
                   onChange={handleChange}
                   className="input"
                 >
-<option value="">Choisir la Date et l'heure d'arrivée:</option>
+                        <option value="">Choisir la Date et l'heure d'arrivée:</option>
                   <option value="6 Février">6 Février</option>
                   <option value="7 Février">7 Février</option>
                 </select>
